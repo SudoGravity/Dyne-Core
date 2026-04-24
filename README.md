@@ -16,7 +16,7 @@ Dyne is built as a series of modular "Organs" that interface with a hybrid found
 ## 🛠️ The Dev Stack
 - **Language:** Rust (Safety-first, zero-cost abstractions)
 - **Editor:** Zed (The high-performance Rust forge)
-- **AI Engine:** DeepSeek (Architectural consultation and code generation)
+- **AI Engine:** DeepSeek (Architectural consultation and code generation) Gemini (licensing strategy & documentation) First Project Where AI is Used as a tool for Assistance.
 - **Target Hardware:** Intel x86_64 (Primary), ARM64, and PowerPC (PPC).
 
 ## 🛡️ Licensing: The "GPLv3 House"
