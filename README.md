@@ -2,7 +2,7 @@
 
 **Project Dyne** is a high-performance, hybrid operating system designed to merge the hardware versatility of the Linux kernel with the application interface (API) and aesthetic soul of macOS (Darwin/XNU). 
 
-Built in Rust and orchestrated by an AI-assisted Architect, Dyne OS aims to become the "Fourth Pillar" of computing—alongside Linux, macOS, and Windows—by providing a universal binary translation layer that bridges the gap between ecosystems.
+Built in Rust and orchestrated by me Ryan, Dyne OS aims to become the "Fourth Pillar" of computing—alongside Linux, macOS, and Windows—by providing a universal binary translation layer that bridges the gap between ecosystems.
 
 ## 🏛️ The Architecture (The Layer Cake)
 Dyne is built as a series of modular "Organs" that interface with a hybrid foundation:
@@ -14,6 +14,7 @@ Dyne is built as a series of modular "Organs" that interface with a hybrid found
 - **DYNE-KERNEL (The Heart):** A customized Fedora-based kernel hybridized with Mach primitives to support XNU-specific system calls.
 
 ## 🛠️ The Dev Stack
+- *Me:** Overlooking System Architecture and general OS Design
 - **Language:** Rust (Safety-first, zero-cost abstractions)
 - **Editor:** Zed (The high-performance Rust forge)
 - **AI Engine:** DeepSeek (Architectural consultation and code generation) Gemini (licensing strategy & documentation) First Project Where AI is Used as a tool for Assistance.
